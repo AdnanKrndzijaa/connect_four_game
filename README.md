@@ -1,4 +1,4 @@
-# Connect Four (Rust)
+# Connect Four Game (Rust)
 
 Connect Four is a two-player strategy game in which the players take turns dropping their elements into a grid. 
 The game board consists of a grid with at least seven columns and six rows. 
